@@ -1,0 +1,17 @@
+{
+	"data": [
+		{
+			"choice": true,
+			"question": "What is the result of 1+1?",
+			"A": "1",
+			"B": "2",
+			"C": "3",
+			"D": "4",
+			"answer": "A"
+		},
+		{
+			"choice": false,
+			"question": "How do you enjoy Advanced Web?"
+		}
+	]
+}
